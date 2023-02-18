@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="txtNoAccount">Don\'t have an account?</string>
+    <string name="txtSignup">Signup</string>
+</resources>
